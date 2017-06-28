@@ -1,0 +1,10 @@
+matplotlib==1.5.0
+mpld3==0.2
+numpy==1.12.0
+pandas==0.19.2
+scikit-learn==0.18.2
+scikit-sos==0.1.10
+scipy==0.18.1
+git+https://github.com/mwaskom/seaborn.git
+statsmodels==0.8.0
+stemgraphic==0.3.6
